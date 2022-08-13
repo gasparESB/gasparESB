@@ -24,5 +24,5 @@ Codando algumas coisas no meu tempo livre.
 
 ## Contato:
 
-[![Linkedin Badge](https://img.shields.io/badge/Leonardo%20Vargas-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-luis-de-vargas/)](https://www.linkedin.com/in/vitorgasparhu/) 
+[![Linkedin Badge](https://img.shields.io/badge/Vitor%20Augusto-2D425E?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorgasparhu//)](https://www.linkedin.com/in/vitorgasparhu/) 
 
